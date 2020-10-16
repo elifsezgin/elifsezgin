@@ -7,9 +7,9 @@ Javascript | React | Python | Django
 <br />
 <hr />
 
-Cross Platform and Native Mobile development
+Full stack software developer
 
- ![Visitor Count](https://profile-counter.glitch.me/{omc345}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{elifsezgin}/count.svg)
 
 <h4 align="center">Created with &nbsp;❤️</h3>
 
